@@ -1,0 +1,39 @@
+@media all and(max-width: 766px){
+    .img-banner-responsive{
+        height: 20%;
+        object-fit: cover;}
+    }
+    
+
+
+@media screen and (min-width: 767px) and (max-width: 991px){
+    .img-banner-responsive{
+        height: 50%;
+        object-fit: cover;}
+}
+.img-poke-responsive{
+        height: 250px;
+        object-fit: cover;
+    }
+
+.planta{
+    background: rgb(25, 124, 25);
+}
+.veneno{
+    background: rgb(128, 20, 128);
+}
+.fuego{
+    background: rgb(182, 52, 13);
+}
+.psiquico{
+    background:rgb(233, 64, 92)
+}
+.volador{
+    background: rgb(161, 159, 159);
+}
+.hielo{
+    background: rgb(77, 199, 240);
+}
+.evolucion{
+    background: rgb(175, 171, 171);
+}
